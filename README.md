@@ -182,7 +182,7 @@
 🔖 Abstract fonts: https://www.abstractfonts.com/ <br>
 🔖 Fontget: https://www.fontget.com/ <br>
 
-## 📚 SITE DE DE PALETAS DE CORES:
+## 📚 SITE DE PALETAS DE CORES:
 
 🔖 Paletton: https://paletton.com/ <br>
 🔖 Adobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
